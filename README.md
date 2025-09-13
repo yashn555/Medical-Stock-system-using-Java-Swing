@@ -13,17 +13,18 @@ This is a Stock Management System application developed in Java Swing. It provid
 
 ## Screenshots
 
-![image](https://github.com/yashn555/Medical-Stock-system-using-Java-Swing/assets/163228422/d3bf88cf-bb16-4ee2-a246-93b7d42cf18a)
+<img width="1919" height="1079" alt="Screenshot 2025-09-13 211146" src="https://github.com/user-attachments/assets/e9415cb9-7058-4cf7-a6af-d0cecf5105ad" />
+
 
 <!-- Insert a screenshot of the application here -->
 
-![image](https://github.com/yashn555/Medical-Stock-system-using-Java-Swing/assets/163228422/73860e82-091b-4708-ae11-4b2ad555a567)
+
 
 <!-- Insert another screenshot of the application here -->
 
-![image](https://github.com/yashn555/Medical-Stock-system-using-Java-Swing/assets/163228422/fbbeb62f-b511-4a4e-b187-562f51e45510)
 
-![image](https://github.com/yashn555/Medical-Stock-system-using-Java-Swing/assets/163228422/8f43780d-1f2b-4b65-ace1-2cf1caa46b77)
+
+
 
 ## Getting Started
 
