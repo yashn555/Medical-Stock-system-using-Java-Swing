@@ -57,6 +57,7 @@ The database schema includes tables for:
 2. clients
 3. suppliers
 4. bills
+
 Each table is designed to efficiently store and manage relevant data, ensuring smooth operations within the system.
 
 ### Usage
@@ -68,7 +69,6 @@ Client Login:
 
 Username: client
 Password: client123
+
 After logging in, users can navigate through the system to manage stock, clients, suppliers, and generate bills.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
