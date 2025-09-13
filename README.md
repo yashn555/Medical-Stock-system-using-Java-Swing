@@ -61,16 +61,14 @@ The database schema includes tables for:
 Each table is designed to efficiently store and manage relevant data, ensuring smooth operations within the system.
 
 ### Usage
-Admin Login:
+**Admin Login:**
 
 Username: admin
-
 Password: admin123
 
-Client Login:
+**Client Login:**
 
 Username: client
-
 Password: client123
 
 After logging in, users can navigate through the system to manage stock, clients, suppliers, and generate bills.
