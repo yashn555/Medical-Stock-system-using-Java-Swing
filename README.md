@@ -62,12 +62,15 @@ Each table is designed to efficiently store and manage relevant data, ensuring s
 
 ### Usage
 Admin Login:
+
 Username: admin
 
 Password: admin123
+
 Client Login:
 
 Username: client
+
 Password: client123
 
 After logging in, users can navigate through the system to manage stock, clients, suppliers, and generate bills.
