@@ -19,25 +19,32 @@ The **Medical Inventory Management System** is a desktop application built using
 - **Backend**: MySQL
 - **IDE**: NetBeans
 
-## 📦 Installation
+### Installation & Setup
 
-### Prerequisites
-
-- Java Development Kit (JDK)
-- NetBeans IDE
-- MySQL Database
-
-### Steps
-
-1. Clone the repository:
-   ```bash
+## 1. Clone the Repository
    git clone https://github.com/yashn555/Medical-Inventory-Management-Java-Swing.git
-2. Import the project into NetBeans.
-3. Set up the MySQL database:
-      **Create a new database named medical_inventory.**
-      Run the SQL script **medical.sql** provided in the repository to set up the necessary tables.
-4. Configure the database connection in the project settings.
-5. Run the project from NetBeans.
+
+## 2. Import Project
+
+Open NetBeans IDE.
+
+Import the cloned project into NetBeans.
+
+## 3. Set Up Database
+
+Create a new MySQL database named:
+
+   medical_inventory
+
+Run the provided SQL script medical.sql in the repository to set up necessary tables.
+
+## 4. Configure Database Connection
+
+Update the database connection settings in the project to match your MySQL credentials.
+
+## 5. Run the Project
+
+Run the project from NetBeans IDE.
 
 ### Screenshots
 
@@ -52,13 +59,18 @@ The **Medical Inventory Management System** is a desktop application built using
 
 
 ### Database Schema
-The database schema includes tables for:
-1. products
-2. clients
-3. suppliers
-4. bills
 
-Each table is designed to efficiently store and manage relevant data, ensuring smooth operations within the system.
+The database consists of the following tables:
+
+1. products – Stores information about medical products.
+
+2. clients – Stores client details.
+
+3. suppliers – Stores supplier information.
+
+4. bills – Stores billing and transaction details.
+
+These tables are designed to ensure efficient data management and smooth operations.
 
 ### Usage
 **Admin Login:**
