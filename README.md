@@ -57,7 +57,7 @@ Create a new MySQL database named:
 <img width="1919" height="1026" alt="Screenshot 2025-09-13 211233" src="https://github.com/user-attachments/assets/f49b6a98-84ca-4649-a7a5-e0041d0e60c1" />
 
 
-### Database Schema
+### 📄Database Schema
 
 The database consists of the following tables:
 
@@ -71,7 +71,7 @@ The database consists of the following tables:
 
 These tables are designed to ensure efficient data management and smooth operations.
 
-### Usage
+### 🧪 Usage
 **Admin Login:**
 
 Username: admin
